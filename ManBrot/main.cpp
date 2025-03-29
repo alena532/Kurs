@@ -6,7 +6,7 @@ int main(int argc, char *argv[])
 {
     QApplication a(argc, argv);
 
-    Fractal w;
-    w.show();
+    Fractal b;
+    b.show();
     return a.exec();
 }
